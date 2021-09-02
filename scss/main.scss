@@ -1,6 +1,7 @@
 
 @import './components/config';
 @import './components/button';
+@import './components/utils';
 
 * {
     @include reset-pm();
